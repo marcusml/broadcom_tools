@@ -1,2 +1,1 @@
-# broadcom_tools
-Broadcom Bluetooth Tools
+# Broadcom Bluetooth Tools
